@@ -1,2 +1,2 @@
 # blackjack
-Blackgame to get better at object-oriented programming
+Blackjack game to get better at object-oriented programming in Python.
